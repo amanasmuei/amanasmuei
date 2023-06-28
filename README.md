@@ -6,8 +6,5 @@ My name is **Abdul Rahman M Asmuei**, here in my github repositories you can fin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanasmuei&layout=compact)
 
-### 🌱 My Contributions So Far!
-![github stats](https://github-readme-stats.vercel.app/api?username=amanasmuei&show_icons=true)
-
 ### 📮 Get In Touch!
 - 📬 You can reach me by mentioning or direct message by [mail](mailto:amanasmuei@gmail.com)
