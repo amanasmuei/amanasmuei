@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello There 👋 Welcome to My GitHub Repositories
 
-<!--
-**amanasmuei/amanasmuei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Let Me Introduce My Self**
 
-Here are some ideas to get you started:
+My name is **Abdul Rahman M Asmuei**, here in my github repositories you can find some repositories that may be useful for the others. My repositories is mainly related with my hobby or current works as Software Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanasmuei&layout=compact)
+
+### 🌱 My Contributions So Far!
+![github stats](https://github-readme-stats.vercel.app/api?username=amanasmuei&show_icons=true)
+
+### 📮 Get In Touch!
+- 📬 You can reach me by mentioning or direct message by [mail](mailto:amanasmuei@gmail.com)
